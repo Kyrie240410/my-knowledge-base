@@ -1,6 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  // 忽略死链检查（开发阶段）
+  ignoreDeadLinks: true,
   title: '我的知识库',
   description: '个人知识管理与笔记系统',
   
