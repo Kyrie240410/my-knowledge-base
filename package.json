@@ -1,0 +1,16 @@
+{
+  "name": "my-knowledge-base",
+  "version": "1.0.0",
+  "description": "个人知识库 - 基于 VitePress 构建",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": ["knowledge-base", "vitepress", "notes"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0"
+  }
+}
