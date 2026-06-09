@@ -4,7 +4,7 @@
 
 ## 在线访问
 
-🔗 **https://你的用户名.github.io/my-knowledge-base**
+🔗 **https://Kyrie240410.github.io/my-knowledge-base**
 
 ## 本地开发
 
@@ -76,7 +76,7 @@ npm run docs:build
 
 1. 克隆仓库
    ```bash
-   git clone https://github.com/你的用户名/my-knowledge-base.git
+   git clone https://github.com/Kyrie240410/my-knowledge-base.git
    ```
 
 2. 创建或编辑 Markdown 文件
